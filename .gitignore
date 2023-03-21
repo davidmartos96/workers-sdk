@@ -177,7 +177,7 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node,macos
 
-wrangler-dist/
+#wrangler-dist/
 miniflare-dist
 packages/wrangler/wrangler.toml
 packages/prerelease-registry/_worker.bundle
@@ -189,5 +189,5 @@ _routes.generated.json
 # Vendored npm dependencies
 !vendor/*.tgz
 
-# IntelliJ 
+# IntelliJ
 .idea/
