@@ -178,7 +178,7 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node,macos
 
 #wrangler-dist/
-miniflare-dist
+#miniflare-dist
 packages/wrangler/wrangler.toml
 packages/prerelease-registry/_worker.bundle
 packages/wranglerjs-compat-webpack-plugin/lib
